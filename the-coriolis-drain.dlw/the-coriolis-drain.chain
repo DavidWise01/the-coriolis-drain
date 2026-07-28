@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1875
+slug  : the-coriolis-drain
+seal  : 2bdb00a40ddaf3e3cd868b0380cd1d72559dd8fa9251fc1e8984fc0a7269acd8
+prev  : 79da56097293f21c91397d887fc4ed121d744d781f9f5eb830ff504941dd773e
+link  : 2b0be62bb12a6aa91b3d4017b3de684082738642af04c6618abe9aa2a594a1a5
+head  : 69f8b1e5ab541107e6719d3ffba453f377ecc07ce9bd7377d2bc4102adfe3186
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
